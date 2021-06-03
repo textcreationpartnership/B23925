@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers plea answering all objections, and they proved to be no way dangerous, but friends to the King, and may be tollerated in their religion with safety to the kingdom / P.H.</title>
+            <author>P. H. (Peter Hardcastle), d. 1693.</author>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23925</idno><idno type="EEBO-CITATION">8153562</idno>
+  <idno type="VID">204222</idno>
+  <idno type="EEBO-PROQUEST">2248501946</idno>
+  
+            <idno type="STC">Wing H697</idno>
+            <idno type="OCLC">08153562</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23925)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204222)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1230:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers plea answering all objections, and they proved to be no way dangerous, but friends to the King, and may be tollerated in their religion with safety to the kingdom / P.H.</title>
+                  <author>P. H. (Peter Hardcastle), d. 1693.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends.</term>
+               <term type="topical_term">Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204222:1"/>
+            <pb facs="tcp:204222:2"/>
+            <p>THE Quakers Plea, ANSWERING ALL OBIECTIONS, And they proved to be no way dangerous, but FRIENDS TO THE KING: And may be tollerated in their RELIGION, with safety to the Kingdom.</p>
+            <p>
+               <hi>P. H.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for the Author, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204222:3"/>
+            <pb n="3" facs="tcp:204222:3"/>
+            <head>Whereas it is objected at this day by many, that the <hi>Quakers</hi> (so called) are a dangerous People towards the King and his Government, and therefore not fit to be tollerated, as they say, upon these Reasons.</head>
+            <p>
+               <hi>First,</hi> Because many of them have been in the Army against the King and Kingly Authority <hi>(as it is said)</hi> under the commands of the late usurped Powers of Pro<g ref="char:EOLhyphen"/>tectors, Parliaments, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Because they will not swear, nor take the Oath of Allegeance to the King, nor give any credible assu<g ref="char:EOLhyphen"/>rance by Oath or Promise, or other security that they will be peaceable, and not fight, nor take up Arms against the King, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> Because they are a People not conformable to the Church, and not agreeing with the customs and fashions of the Kingdom, but are singular in their wayes, and keeps a correspondency among themselves, holding great Meetings, and thereby may seduce many more of the Kings Subjects to their wayes and Principles.</p>
+            <div type="part">
+               <head>To all these I Answer in order.</head>
+               <p>THe first Reason, <hi>Because many of them</hi> (viz. <hi>the</hi> Quakers) <hi>have been in the Army against the King and Kingly Authority, under the Commands of the late usurped Powers of Pro<g ref="char:EOLhyphen"/>tectors and Parliaments,</hi> &amp;c.</p>
+               <pb n="4" facs="tcp:204222:4"/>
+               <p>
+                  <hi>Answ.</hi> 1. Though it is acknowledged that some who are now called <hi>Quakers</hi> have been in the Ar<g ref="char:EOLhyphen"/>my under the Protectors (so called) and their Par<g ref="char:EOLhyphen"/>liaments, that warred against the King, yet it is not true of all of us, for some that are now <hi>Quakers</hi> (so called) were in the Army for the King, and also many of us were never in any Army, neither for nor against him; so that the strength of this reason is avoided, because we have not all in general been in Arms against the King, and therefore now not a dangerous people on that Reason, because the strength and force of the Reason is fetched from that cause in General, which all of us are not guil<g ref="char:EOLhyphen"/>ty of, and so now not a dangerous people (in Ge<g ref="char:EOLhyphen"/>neral) on that account, though some have been in Arms at some time as aforesaid, under the Powers against the King; neither is it an infallible sign, or certain reason of a dangerous Person, or People to<g ref="char:EOLhyphen"/>wards the King, to have been sometime in the Ar<g ref="char:EOLhyphen"/>my under the late Powers against Him, because some that are now the Kings nearest Friends, and Pillers of the Government, and no whit dangerous to him, have that sign upon them, and are fully concluded under that reason of once being in the Army against the King.</p>
+               <p>But Secondly, Though some that are now called <hi>Quakers</hi> were once in the Army, under the Powers against the King, when their knowledge and judg<g ref="char:EOLhyphen"/>ments were not otherwise framed, but were of that Principles and Practice, that fighting and going to war in it self was lawful, <hi>&amp;c.</hi> Yet being now al<g ref="char:EOLhyphen"/>tered and turned in their judgements to the con<g ref="char:EOLhyphen"/>trary, and that it is not lawful (in the Administra<g ref="char:EOLhyphen"/>tion of the Gospel) to fight against, or go to war
+<pb n="5" facs="tcp:204222:4"/>with Carnal Weapons in any wise, there is now no danger of us on the former account, because the fear of present danger now concerning us, cannot rightly be placed on that reason (of what) we once were, being now changed in our Principles in that case, and cannot now fight, or go to War with car<g ref="char:EOLhyphen"/>nal Weapons against the King, nor any man upon the earth; and this being now our Principle in that case (notwithstanding whatsoever it hath been heretofore) we cannot justly now be concluded to be a dangerous People to the King, because such of us (whose Principles) were once so, are chang<g ref="char:EOLhyphen"/>ed even from that Principle and practise of going to wars, and fighting, and now are all of that mind and heart, that in the administration of the Gospel, it is on all occasions whatsoever unlawful to go to war, and fight with any man with carnal Weapons, contrary to the Doctrine of Christ. But</p>
+               <p>Thirdly, It cannot justly be judged concerning us that we are a dangerous people, as we are Qua<g ref="char:EOLhyphen"/>kers for that cause and reason which we might be, or do when we were not such, so that we cannot now be reputed a dangerous people, as we are tru<g ref="char:EOLhyphen"/>ly so, and called Quakers, upon that reason al<g ref="char:EOLhyphen"/>leadged against us of what we were, or might do when we were not Quakers, because we are now (as such) turned from that Principle of fighting, and as Quakers, never any of us took up Arms a<g ref="char:EOLhyphen"/>gainst the King, and therefore as we are Quakers, cannot be justly judged dangerous nor condemned, neither feared as such seeing that (as such) and ever since we were such, we never took up arms against the King, nor gave just cause of suspition of being dangerous to the King and his Government, and we
+<pb n="6" facs="tcp:204222:5"/>cannot justly suffer in any case now for what we might be, or do before we were such, for now we hold the principle, and practise also of living peace<g ref="char:EOLhyphen"/>able with all men, and not to fight against, or war with any; and if any proceedings be against us now in any cases, it is only as we are such, and not as we were such in another capacity.</p>
+               <p n="2">2. Reas. <hi>Because they</hi> (viz. <hi>the Quakers</hi>) <hi>will not swear, nor take the Oath of Allegiance to the King, nor give any credible assurance by Oath or promise, or other security that they will be peaceable and not fight, nor take up armes against the King,</hi> &amp;c.</p>
+               <p>
+                  <hi>Ans.</hi> First, Though we will not swear, nor take the oath of Allegiance to the King, it is not because we will not take that oath, but because we cannot take any oath at all; For we cannot swear at all, be<g ref="char:EOLhyphen"/>cause of the command of Christ, who hath expresly forbidden to swear at all, <hi>Mat.</hi> 5. So though we will not swear Allegiance, yet that is no good reason that we are a dangerous people, for our refusing to take the oath of Allegiance is not out of Rebellion to the King, or as though we had some reserve of future intents of Rebellion, or conspiracy towards him, and would not therefore swear Allegiance, but would leave our selves free to intend, or act evil to him, but it is out of good conscience, and that we may keep the commands of Christ, there<g ref="char:EOLhyphen"/>fore only do we refuse to swear in that, and all o<g ref="char:EOLhyphen"/>ther cases, and so no true consequence can be col<g ref="char:EOLhyphen"/>lected that we are a dangerous people on that rea<g ref="char:EOLhyphen"/>son, neither is it a certain reason and infallible sign that a people is dangerous towards the King for denying to take the oath of Allegiance, because many people that will swear, and take that oath,
+<pb n="7" facs="tcp:204222:5"/>are still accounted dangerous, and may be truly so accounted, and may not be wholly friends to the King and his Government, though they have taken that oath; so we cannot be truly judged to be more the Kings enemies, nor less his friends, though we will not swear Allegiance, seeing it is not denied of Rebellion, but for conscience sake.</p>
+               <p>Secondly, We are ready and willing to give a credible Testimony in the fear of God, that we shall not Rebel, Plot, or imagine to the hurt or distructi<g ref="char:EOLhyphen"/>on of the King his person, or just Authority in the verity of yea and nay, as God is our witness, or we speak the truth in Christ and lie not, such credible testimony (which is as binding to us to be perfor<g ref="char:EOLhyphen"/>med of us, then any formall oaths are to them that take them,) we have given and are ready to give for our security of peaceable living, and that we shall not Plot nor Rebel against the King, but live peaceably, <hi>&amp;c.</hi> And such our Testimony in yea, and nay given solemnly by us, as God is our witness, or we speak in his fear, <hi>&amp;c.</hi> is as credible security, as any oaths, promises and engagements of any o<g ref="char:EOLhyphen"/>thers, and will be performed as truly and perfect<g ref="char:EOLhyphen"/>ly; But</p>
+               <p>Thirdly, No better testimony can be given of us of our peaceableness, and that we shall not Plot, nor Rebel against the King then experience it self, experience I say is the sufficient and best witnesse, that we are peaceable, and free from Plotting and Rebellion, for we have alwaies been so since we were a people, both before and since the King came in, and never since that we were a people have we taken the occasion (though often profered us) to war with, or fight against any by Rising up with
+<pb n="8" facs="tcp:204222:6"/>carnal weapons; but have ever been subject (ac<g ref="char:EOLhyphen"/>cording to a good conscience) to every Authority that have been over us, and we are so clear, and free in these matters, that we can challenge the whole world to accuse us, or detect us of the con<g ref="char:EOLhyphen"/>trary; so our refusing to swear or engage our selves by oath in Allegiance to the King, argues not any danger at all towards him, or as if we were a dan<g ref="char:EOLhyphen"/>gerous people and not to be tollerated, because we are ready to give testimony of our peaceable living, &amp; also experience witnesseth that we are a peace<g ref="char:EOLhyphen"/>able people, and have alwayes been so, and we are ready to testifie in the presence of God, that we are (resolved in the Lord) so to continue.</p>
+               <p n="3">3. <hi>Reas.</hi> Thirdly, <hi>Because they are a people not con<g ref="char:EOLhyphen"/>formable to the Church, and not agreeing with the cu<g ref="char:EOLhyphen"/>stomes and fashions of the Kingdome, but are singular in their wayes, and keeps a correspondency among themselves, holding great meetings, and thereby may seduce many more of the Kings Subjects to their wayes, and principles,</hi> &amp;c.</p>
+               <p>
+                  <hi>Ans.</hi> First, it is true, we are not conformable to the Church of <hi>England,</hi> nor agreeing to the cu<g ref="char:EOLhyphen"/>stomes and formalities of the Nation in many things, yet this argues no danger at all in us, for it is not out of perversnesse, malice or evil minded<g ref="char:EOLhyphen"/>ness that we do not comform to the Church, but for conscience sake, and for conscience sake we cannot conform in many things, as in particular may be shewed if it were the present case to be resolved, and tis our desire to dispute the Case with the Fa<g ref="char:EOLhyphen"/>thers of the Church, and being tis not of malice, nor evil mindednesse towards the King and his Go<g ref="char:EOLhyphen"/>vernment, that we do not conform to the Church,
+<pb n="9" facs="tcp:204222:6"/>and Customes of the Land, but wholly and only for Conscience sake, and that we may keep our consci<g ref="char:EOLhyphen"/>ence clear, and not sin against our God, therefore no sound reason of Danger concerning us can be drawn or alleadged against us, because of our not conforming to the Church, neither is conforming to the Church a certain and infallible sing of a per<g ref="char:EOLhyphen"/>son, or a people to conclude that they are not dan<g ref="char:EOLhyphen"/>gerous towards the King, because many that door may conform, may (more truly then we) admit of su<g ref="char:EOLhyphen"/>spitious danger, and this is very true; Wherefore our not conforming to the Church, renders us not to be accounted a dangerous people, because many that may conform to the Church, may be dangerous more then we.</p>
+               <p>Secondly, but as for not agreeing with the cu<g ref="char:EOLhyphen"/>stomes and manners of the General sort of people of the Land, this is much of the same with the for<g ref="char:EOLhyphen"/>mer, and the same answer may be given; for though it is true that we do n ot agree in many customes, and formall fashions and manners of the generall sort of people, this is also for conscience sake, and lest we should sin against God, this is the only cause wherefore we refuse to follow, and are departed from many of the customes and fashions, and man<g ref="char:EOLhyphen"/>ners of this world, being most of them in the vaine glory, and superstitions, and flatteries, ambitions and deceits of this evil world, and all such customes, fashions and manners as are vain glories, flatteries and deceits, we agree not with any in these things, but are separate from them, and opposite to them, and that for good conscience sake; yet this argues no danger at all, as though we were a dangerous
+<pb n="10" facs="tcp:204222:7"/>people to the King, and his Government, upon this reason, for this shews no danger at all, because we do not contemptuously nor rebelliously separate our selves from the people, into division or singu<g ref="char:EOLhyphen"/>larity in this case, but only for good conscience sake, as being convinced of the evil of these things, and that they are not good, therefore we deny, and separate from them; and also this is no certain rea<g ref="char:EOLhyphen"/>son, nor infallible charracter that we are a danger<g ref="char:EOLhyphen"/>ous people, for many that do conform to all the cu<g ref="char:EOLhyphen"/>stomes, and manners, and wayes of men are not ex<g ref="char:EOLhyphen"/>cluded from suspition of danger; but even some such as do conform both to the Church, and all cu<g ref="char:EOLhyphen"/>stomes and manners of the Land, may be a more dangerous people then we are; so this reason shews not truly that we are such as is objected against us, (to wit) a dangerous people, and not sit to be tol<g ref="char:EOLhyphen"/>lerated.</p>
+               <p>Thirdly, as for being singular in our wayes, and holding correspondency one with another; thus it is, we are such as do fear the Lord, and are separated from this evil world in all its wayes, and vanities, and are only singular so, and not otherwise, as that we cannot joyn with, nor conform unto any thing in word, work, or action, which is contrary to the Scriptures of truth, and to the exercise of our pure consciences; But so are we singular as that we love the Lord our God above all, and delights to serve him in a pure heart, and we follow after truth and righteousness, mercy and peace, the good of our neighbours, and the glory of the Lord, and the con<g ref="char:EOLhyphen"/>trary we hate, and are separated from, into singula<g ref="char:EOLhyphen"/>rity and separation, and we love one another, and
+<pb n="11" facs="tcp:204222:7"/>are united in the bond of peace, and are members of one body (to wit Christ) and are of one heart, and one soul, even as it was among the Primitive Christians, so it is amongst us all this day in respect of our union and correspondency, for no other we hold then they, even in the truth, and in the power of God, and only such is our union, and fellowship; and this correspondency is no reason of danger on our part towards the King, excepting our fear of the Lord, and love to him, and denying wickedness, and loving righteousness, and our love one to ano<g ref="char:EOLhyphen"/>ther in the bond of peace, <hi>&amp;c.</hi> argue danger in us, which I hope no wise man will either say, or sup<g ref="char:EOLhyphen"/>pose, nor conclude that by reason hereof (to wit) such singularity and correspondency (as afore<g ref="char:EOLhyphen"/>said,) we are a dangerous people, and not to be tol<g ref="char:EOLhyphen"/>lerated.</p>
+               <p>Lastly, As for our great Meetings, and the suppo<g ref="char:EOLhyphen"/>sed danger of seducing more of the Kings Subjects to our wayes, <hi>&amp;c.</hi> I say our Meetings are only for the worship of God, and to wait upon him, and af<g ref="char:EOLhyphen"/>ter the example of the Scriptures, and Primitive Christians, and such is our onely end after such a good example, God is our witness, and is no reason of danger towards the King, seeing the end of such our practise is good, and not evil, not to Plot or contrive ought against the King and his Govern<g ref="char:EOLhyphen"/>ment; But to wait upon the Lord, and to worship him according to the example of Scripture, and as we are perswaded in our hearts by his holy spirit of truth, and we abiding in that way and spirit in the exercise of our pure consciences to God-wards, cannot bring forth evil towards the King, nor effect
+<pb n="12" facs="tcp:204222:8"/>any dangerous thing to his person or Government; and as for the supposed danger of seducing the Kings Subjects, <hi>&amp;c.</hi> we are not such as do, or would seduce any out of the way of the Lord into error, neither are we hereof yet truly detected or convinced, though sometimes hereof falsely accu<g ref="char:EOLhyphen"/>sed; But suppose many do turn to our way, and be<g ref="char:EOLhyphen"/>come one with us in our Principles and practises, (which is the supposed danger,) this is no reason that we are a dangerous people, but rather the con<g ref="char:EOLhyphen"/>trary; for the more that are turned to us, and be<g ref="char:EOLhyphen"/>come of our principles (and so will not fight not war against the King, but doth renounce that prin<g ref="char:EOLhyphen"/>ciple and practise as well as we) the safer, and more secure is the King and his Government, inasmuch as the more danger of harm he is in, the more people is of that principle to war against him, and the more that are turned from that principle to us, to be a peaceable people, and resolved alwayes to live in peace with God and our Neighbours, the more safe and secure is the King; so that truly considered, though many should turn to us, and to follow our wayes, is no reason that we are a dangerous people, but clean the contrary, as is plainly proved.</p>
+               <p>Secondly, But to make Laws against us, and to Persecute us to Imprisonment, Banishment or Death, is not the way of keeping people from turning to us, and this will certainly be found; but the more we are sought to be suppressed by such means of Rigour and Violence executed upon us, to Imprisonment, Persecution and Banishment, the more will people incline towards us, to follow our wayes and Principles; For tis common in all
+<pb n="13" facs="tcp:204222:8"/>Ages, that whatsoever people have been persecu<g ref="char:EOLhyphen"/>ted for their Religion and Conscience sake, that people have grown more numerous thereby, and so will it be now; for also there is a property in <hi>English</hi> people to affect sufferers, and to suffer for our Religion, will more encline the hearts of peo<g ref="char:EOLhyphen"/>ple towards us, then many are now aware, and will decline them from you and your Authority, if it bring forth persecution, <hi>&amp;c.</hi> And hereby will the Lord and all good men be grieved and vexed a<g ref="char:EOLhyphen"/>gainst you; so to seek to suppress us, and to keep people from following of us, and turning to us by such means of Persecution, is no happy, nor yet blessed and prosperous way for you to proceed in, nor is that any good reason, arguing danger of us, though there be a supposed danger in many fol<g ref="char:EOLhyphen"/>lowing our way.</p>
+               <p>Thirdly, And suppose that any or many should be so perswaded in their Judgements and Consci<g ref="char:EOLhyphen"/>ences, to turn to our way and follow us, and to dare trust their souls in the following of our Religion, what a hard thing, and how unreasonable will it be, that such should be limited and restrained by force, by Banishment or Death, from that Way and Religion of which they are so perswaded as aforesaid, with which they dare freely trust their souls, seeing the God of Heaven hath reserved in his own power, to work Faith in the Heart, and to convert to Righteousnesse, and to perswade the Consciences and Judgements of men, therefore its proper to him to be Lord and Ruler in this case; And it will be wisdom for the Rulers of this world to Rule well over the outward Man, in the things
+<pb n="14" facs="tcp:204222:9"/>pertaining to this world, and to permit and allow all people to turn unto, to follow and practise that Religion which they dare trust their own Souls withal, and as they dare give account unto the dreadful God, of what they believe and professe in his dreadful day that will come upon all the World; and let peace be kept among men in their outward conversations, and let every man keep his own peace with God, and look to it as he loves his own Soul, for that ought to be dear to every man, and in all reason and equity every man should have the liberty to profess and practice that Reli<g ref="char:EOLhyphen"/>gion which he can trust to for the Salvation of his Soul.</p>
+               <p>Lastly, Suppose we are not tollerated, but such force put upon us, to the Banishment and Imprison<g ref="char:EOLhyphen"/>ment of some, and to the causing of others to de<g ref="char:EOLhyphen"/>ny their Religion and Consciences, and conform to the Church, Customs and Fashions of the Land; they that do so conform, will never be such as that you will not have suspition or cause of suspition that they are still dangerous and to be feared by you, yes much more then such as cannot conform, for such who do conform as aforesaid, thorow the force of the Laws, and the fear and terror of this World have renounced (by such conforming) both the Fear of God and good Conscience, and will ac<g ref="char:EOLhyphen"/>count themselves an oppressed people by you, and wil be alwayes grudging because of such force upon them, &amp; being turned from the principle that now keeps us from fighting and waring against you, they are then at liberty even to rebel against you upon occasion, seeing they have renounced good Con<g ref="char:EOLhyphen"/>science,
+<pb n="15" facs="tcp:204222:9"/>and conforms contrary to their Judge<g ref="char:EOLhyphen"/>ments thorow your fear, and have forsaken that Principle which now keeps from going to war; all these things being considered, it may justly be con<g ref="char:EOLhyphen"/>cluded, even according to the very Principles of Policy, that the King is more safe by granting a just Toleration, then he can be, if all were conformed by force, contrary to their Conscien<g ref="char:EOLhyphen"/>ces.</p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
